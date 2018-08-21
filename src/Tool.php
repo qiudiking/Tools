@@ -14,7 +14,6 @@ class Tool {
 
 	private function __construct() {
 
-
 	}
 
 
