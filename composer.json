@@ -1,0 +1,22 @@
+{
+    "name": "qiudiking/tools",
+    "description": "A PHP parser written in PHP",
+    "keywords": ["php", "parser"],
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "秋狄",
+            "email": "1018594717@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "ext-tokenizer": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tools\\": "src/"
+        }
+    }
+}
