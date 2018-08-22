@@ -4,6 +4,8 @@
     "keywords": ["php", "parser"],
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "秋狄",
@@ -18,6 +20,5 @@
         "psr-4": {
             "Tools\\": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
