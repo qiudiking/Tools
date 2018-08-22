@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e055cb2-ca1d-4c13-8874-afae5320b5f2" name="Default" comment="" />
+    <list default="true" id="2e055cb2-ca1d-4c13-8874-afae5320b5f2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Tool.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tool.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11244">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="-6585">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding>
                 <element signature="e#6#88#0#PHP" expanded="true" />
                 <element signature="e#109#17668#1#PHP" expanded="true" />
@@ -130,6 +125,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -159,27 +155,29 @@
       <workItem from="1534846455264" duration="106000" />
       <workItem from="1534900036078" duration="261000" />
       <workItem from="1534900337282" duration="30000" />
+      <workItem from="1534900515554" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="397000" />
+    <option name="totallyTimeSpent" value="432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -201,6 +199,65 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tool.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+            <element signature="e#109#17668#1#PHP" expanded="true" />
+            <element signature="e#149#185#0#PHP" expanded="true" />
+            <element signature="e#262#710#0#PHP" expanded="true" />
+            <element signature="e#896#1656#0#PHP" expanded="true" />
+            <element signature="e#1729#1871#0#PHP" expanded="true" />
+            <element signature="e#1950#2313#0#PHP" expanded="true" />
+            <element signature="e#2363#2469#0#PHP" expanded="true" />
+            <element signature="e#2534#2739#0#PHP" expanded="true" />
+            <element signature="e#2811#2944#0#PHP" expanded="true" />
+            <element signature="e#3025#3463#0#PHP" expanded="true" />
+            <element signature="e#3534#3723#0#PHP" expanded="true" />
+            <element signature="e#3783#3893#0#PHP" expanded="true" />
+            <element signature="e#3987#4171#0#PHP" expanded="true" />
+            <element signature="e#4266#4450#0#PHP" expanded="true" />
+            <element signature="e#4502#4579#0#PHP" expanded="true" />
+            <element signature="e#4876#6090#0#PHP" expanded="true" />
+            <element signature="e#6349#7231#0#PHP" expanded="true" />
+            <element signature="e#7278#7458#0#PHP" expanded="true" />
+            <element signature="e#7552#7660#0#PHP" expanded="true" />
+            <element signature="e#7744#7959#0#PHP" expanded="true" />
+            <element signature="e#8116#8789#0#PHP" expanded="true" />
+            <element signature="e#8908#9549#0#PHP" expanded="true" />
+            <element signature="e#9552#9694#0#PHP" expanded="true" />
+            <element signature="e#9813#10088#0#PHP" expanded="true" />
+            <element signature="e#10216#10322#0#PHP" expanded="true" />
+            <element signature="e#10370#10655#0#PHP" expanded="true" />
+            <element signature="e#10988#11575#0#PHP" expanded="true" />
+            <element signature="e#11644#11730#0#PHP" expanded="true" />
+            <element signature="e#11795#11886#0#PHP" expanded="true" />
+            <element signature="e#11951#12042#0#PHP" expanded="true" />
+            <element signature="e#12161#12600#0#PHP" expanded="true" />
+            <element signature="e#12680#13025#0#PHP" expanded="true" />
+            <element signature="e#13102#13283#0#PHP" expanded="true" />
+            <element signature="e#13425#13721#0#PHP" expanded="true" />
+            <element signature="e#13905#14224#0#PHP" expanded="true" />
+            <element signature="e#14373#14918#0#PHP" expanded="true" />
+            <element signature="e#15042#15150#0#PHP" expanded="true" />
+            <element signature="e#15306#15482#0#PHP" expanded="true" />
+            <element signature="e#15557#15706#0#PHP" expanded="true" />
+            <element signature="e#15736#16127#0#PHP" expanded="true" />
+            <element signature="e#16130#17374#0#PHP" expanded="true" />
+            <element signature="e#17446#17666#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
@@ -209,14 +266,14 @@
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tool.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11244">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="-6585">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding>
             <element signature="e#6#88#0#PHP" expanded="true" />
             <element signature="e#109#17668#1#PHP" expanded="true" />
