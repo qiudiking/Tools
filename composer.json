@@ -3,7 +3,7 @@
     "description": "A PHP parser written in PHP",
     "keywords": ["php", "parser"],
     "type": "library",
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "秋狄",
@@ -18,5 +18,6 @@
         "psr-4": {
             "Tools\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
